@@ -2,6 +2,7 @@ WARNING: Things have changed considerably since version 0.5.1. Keep reading if y
 
 gist.el -- Emacs integration for gist.github.com
 ================================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dontforgetmario/gist.el?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Uses your local GitHub config if it can find it.
 See <http://github.com/blog/180-local-github-config>
